@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Alunos
 
-Esse programa te fornece um sistema para gestão de cadastro de pessoas
+Projeto desenvolvido para praticar os fundamentos de Python
 
 ## Funcionalidades
 
@@ -12,3 +12,7 @@ Esse programa te fornece um sistema para gestão de cadastro de pessoas
 ## Tecnologia
 
 - Python 3.12.9
+
+## Como executar
+
+python src/main.py
