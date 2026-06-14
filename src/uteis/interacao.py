@@ -5,6 +5,7 @@ def titulo(txt = ''):
     print('-' * 60)
 
 def menu():
-    print('[1] - Cadastrar aluno\n[2] - Listar alunos\n[3] - Buscar aluno\n[4] - Remover aluno\n[5] - Sair')
+    '''Função para exibir um Menu'''
+    print('[1] - Cadastrar aluno\n[2] - Listar alunos\n[3] - Buscar aluno\n[4] - Remover aluno\n[5] - Sair\n[6] - Calcular IMC\n[7] - Atualizar Aluno\n[8] - Mostrar Estatísticas')
     n = int(input('Sua opção: '))
     return n
