@@ -8,6 +8,9 @@ Projeto desenvolvido para praticar os fundamentos de Python
 - Remover pessoa
 - Listar pessoas
 - Buscar pessoa
+- Calcular IMC
+- Atualzar dados de aluno
+- Mostrar estatísticas
 
 ## Tecnologia
 
